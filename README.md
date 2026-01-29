@@ -122,10 +122,3 @@ http://localhost:8080
 
 The frontend will now communicate with the backend APIs.
 
----
-
-### 🎉 Done!
-
-You should now have the full **Bostman** application running locally.
-
-
