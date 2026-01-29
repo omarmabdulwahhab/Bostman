@@ -1,6 +1,6 @@
 # Bostman
 
-A **service-oriented web application** developed as part of the *Aspects and Service Oriented Programming* course at university.  
+A **service-oriented web application** developed as part of the *Aspects and Service Oriented Programming* course.
 The project demonstrates the design and implementation of a modular backend using RESTful services and aspect-oriented programming, paired with a responsive frontend to interact with the services.
 
 ---
