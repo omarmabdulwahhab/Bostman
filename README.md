@@ -41,7 +41,7 @@ Bostman is a full-stack application that showcases:
 | AOP           | Aspect-Oriented Programming |
 | Frontend      | HTML, CSS, JavaScript       |
 | Database      | MySQL                       |
-| Build / Tools | Maven / Gradle *(if used)*  |
+| Build / Tools | Maven / Gradle              |
 
 ---
 
